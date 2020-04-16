@@ -10,6 +10,6 @@ package com.example.Javabasic.enum_;
 public class EnumTest2 {
 
     public static void main(String[] args) {
-
+        System.out.println(EnumEntity.SUCCESS);
     }
 }
