@@ -1,4 +1,4 @@
-package com.example.demo.duotai;
+package com.example.Javabasic.duotai;
 
 public class main {
     public  static void main(String args[]){

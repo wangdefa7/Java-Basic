@@ -1,4 +1,4 @@
-package com.example.demo.duotai;
+package com.example.Javabasic.duotai;
 
 public class zi2 extends fu {
     @Override
