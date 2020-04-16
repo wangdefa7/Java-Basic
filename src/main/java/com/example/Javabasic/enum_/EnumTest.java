@@ -2,7 +2,7 @@ package com.example.Javabasic.enum_;
 
 /**
  * @ClassName: EnumTest
- * @Description: 关于枚举类的记录
+ * @Description: 关于枚举类的记录 网上例子
  * @Auther: WDF
  * @Date: 2020/4/1615:20
  * @Version: 1.0
@@ -20,7 +20,7 @@ public class EnumTest {
      */
     private static void forEnum() {
         for (SimpleEnum simpleEnum : SimpleEnum.values()) {
-            System.out.println(simpleEnum + "  ordinal  " + simpleEnum.ordinal());
+            System.out.println(simpleEnum + "  -->  " + simpleEnum.ordinal());
         }
         System.out.println("------------------");
         for (TYPE type : TYPE.values()) {
