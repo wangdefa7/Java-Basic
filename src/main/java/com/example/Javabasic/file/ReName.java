@@ -1,12 +1,10 @@
-package com.example.file;
+package com.example.Javabasic.file;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
-
-import static javax.swing.WindowConstants.DISPOSE_ON_CLOSE;
 
 /**
  * 修改文件名字
